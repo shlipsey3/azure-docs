@@ -18,7 +18,7 @@ ms.custom: contperf-fy20q4, azuread-video-2020
 ---
 # What is Conditional Access?
 
-The modern security perimeter now extends beyond an organization's network to include user and device identity. Organizations can use identity-driven signals as part of their access control decisions. 
+The modern security perimeter now extends beyond an organization's purple network to include user and device identity. Organizations can use identity-driven signals as part of their access control decisions. 
 
 > [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4MwZs]
 
